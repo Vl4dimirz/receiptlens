@@ -1,6 +1,19 @@
 # ReceiptLens
 
-An Android app that scans a receipt, reads it, and checks it for mistakes — entirely on the phone. No internet, no servers, nothing leaves the device.
+An Android app that scans a receipt, reads it, and checks it for mistakes, entirely on the phone. No internet, no servers, nothing leaves the device.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="docs/screenshot-clean.png" width="280" alt="A scanned receipt read and categorized on-device"></td>
+    <td><img src="docs/screenshot-audit.png" width="280" alt="The auditor flagging a receipt whose totals do not add up"></td>
+  </tr>
+  <tr>
+    <td align="center">A receipt read and grouped by category, on-device</td>
+    <td align="center">The auditor flags a receipt whose totals do not add up</td>
+  </tr>
+</table>
 
 ## What it does
 
